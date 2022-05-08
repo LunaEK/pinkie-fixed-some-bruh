@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ppskuggin.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ppskug10000" x="25" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10001" x="650" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10002" x="1275" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10003" x="1900" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10004" x="2525" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10005" x="3150" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10006" x="3775" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10007" x="4400" y="25" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug10008" x="5025" y="25" width="600" height="1138" frameX="0" frameY="0" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug20000" x="5650" y="25" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20001" x="6275" y="25" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20002" x="6900" y="25" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20003" x="7525" y="25" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20004" x="25" y="1204" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20005" x="650" y="1204" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20006" x="1275" y="1204" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20007" x="1900" y="1204" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug20008" x="2525" y="1204" width="600" height="1138" frameX="0" frameY="0" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug30000" x="3150" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30001" x="3775" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30002" x="4400" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30003" x="5025" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30004" x="5650" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30005" x="6275" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30006" x="6900" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30007" x="7525" y="1204" width="600" height="1154" frameX="-7" frameY="-8" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug30008" x="25" y="2383" width="600" height="1138" frameX="0" frameY="0" frameWidth="607" frameHeight="1162"/>
+	<SubTexture name="ppskug40000" x="650" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40001" x="1275" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40002" x="1900" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40003" x="2525" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40004" x="3150" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40005" x="3775" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40006" x="4400" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40007" x="5025" y="2383" width="600" height="1154" frameX="-2" frameY="-8" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug40008" x="5650" y="2383" width="600" height="1138" frameX="0" frameY="0" frameWidth="602" frameHeight="1162"/>
+	<SubTexture name="ppskug50000" x="6275" y="2383" width="600" height="1154" frameX="0" frameY="-27" frameWidth="600" frameHeight="1188"/>
+	<SubTexture name="ppskug50001" x="6900" y="2383" width="600" height="1154" frameX="0" frameY="-27" frameWidth="600" frameHeight="1188"/>
+	<SubTexture name="ppskug50002" x="7525" y="2383" width="600" height="1154" frameX="0" frameY="-27" frameWidth="600" frameHeight="1188"/>
+	<SubTexture name="ppskug50003" x="25" y="3562" width="600" height="1154" frameX="0" frameY="-27" frameWidth="600" frameHeight="1188"/>
+	<SubTexture name="ppskug50004" x="650" y="3562" width="599" height="1188" frameX="0" frameY="0" frameWidth="600" frameHeight="1188"/>
+	<SubTexture name="ppskug60000" x="1274" y="3562" width="600" height="1154" frameX="-7" frameY="-27" frameWidth="607" frameHeight="1187"/>
+	<SubTexture name="ppskug60001" x="1899" y="3562" width="600" height="1154" frameX="-7" frameY="-27" frameWidth="607" frameHeight="1187"/>
+	<SubTexture name="ppskug60002" x="2524" y="3562" width="600" height="1154" frameX="-7" frameY="-27" frameWidth="607" frameHeight="1187"/>
+	<SubTexture name="ppskug60003" x="3149" y="3562" width="600" height="1154" frameX="-7" frameY="-27" frameWidth="607" frameHeight="1187"/>
+	<SubTexture name="ppskug60004" x="3774" y="3562" width="600" height="1187" frameX="0" frameY="0" frameWidth="607" frameHeight="1187"/>
+	<SubTexture name="ppskug70000" x="4399" y="3562" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70001" x="5024" y="3562" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70002" x="5649" y="3562" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70003" x="6274" y="3562" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70004" x="6899" y="3562" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70005" x="7524" y="3562" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70006" x="25" y="4775" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70007" x="650" y="4775" width="600" height="1154" frameX="-8" frameY="-8" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug70008" x="1275" y="4775" width="600" height="1138" frameX="0" frameY="0" frameWidth="608" frameHeight="1162"/>
+	<SubTexture name="ppskug80000" x="1900" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80001" x="2525" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80002" x="3150" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80003" x="3775" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80004" x="4400" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80005" x="5025" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80006" x="5650" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80007" x="6275" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80008" x="6900" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80009" x="7525" y="4775" width="600" height="1682"/>
+	<SubTexture name="ppskug80010" x="25" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskug80011" x="650" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskug80012" x="1275" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskug80013" x="1900" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskug80014" x="2525" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskug80015" x="3150" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskug80016" x="3775" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskug80017" x="4400" y="6482" width="600" height="1682"/>
+	<SubTexture name="ppskugidle0000" x="5025" y="6482" width="24" height="24"/>
+</TextureAtlas>

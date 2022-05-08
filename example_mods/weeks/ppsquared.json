@@ -1,0 +1,32 @@
+{
+	"storyName": "Pinkie^2",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "ppsquared",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Pinkie Squared",
+			"pp",
+			[
+				237,
+				69,
+				141
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ppsquared"
+}
